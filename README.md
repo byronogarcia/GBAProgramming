@@ -7,3 +7,5 @@ Contains:
 
 RectMovement - A program that has a rectangle move left to right, and reappers below its initial point to repeat the animation
 
+SpriteAnimation - A program that shows the controls of the Gameboy Advance linked to the movements of a sprite, which has the possibility of jumping, moving left and right, and jumping
+
